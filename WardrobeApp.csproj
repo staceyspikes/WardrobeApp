@@ -196,6 +196,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\black-adidas-pants.jpg" />
+    <Content Include="Content\black-adidas.JPG" />
+    <Content Include="Content\black-converse.jpg" />
+    <Content Include="Content\black-hat.jpg" />
+    <Content Include="Content\black-long sleeved.jpeg" />
+    <Content Include="Content\black-plain-tee.jpg" />
+    <Content Include="Content\black-purse.jpg" />
+    <Content Include="Content\black-sandal.jpg" />
+    <Content Include="Content\black-scarf.jpg" />
+    <Content Include="Content\black-sweats.jpg" />
+    <Content Include="Content\black-sweatshirt.jpeg" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -224,6 +235,7 @@
     <Content Include="Models\WardrobeModel.edmx.diagram">
       <DependentUpon>WardrobeModel.edmx</DependentUpon>
     </Content>
+    <Content Include="Content\black-jeans" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
