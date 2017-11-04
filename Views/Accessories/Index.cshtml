@@ -39,7 +39,9 @@
             @Html.DisplayFor(modelItem => item.Name)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Photo)
+            @*@Html.DisplayFor(modelItem => item.Photo)*@
+            <img src=@Url.Content(item.Photo) id="imgs">
+            
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Type)

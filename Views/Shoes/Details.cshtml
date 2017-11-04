@@ -23,7 +23,8 @@
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.Photo)
+            @*@Html.DisplayFor(model => model.Photo)*@
+            <img src=@Url.Content(Model.Photo) id="imgs">
         </dd>
 
         <dt>
